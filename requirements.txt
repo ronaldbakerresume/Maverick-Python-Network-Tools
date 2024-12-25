@@ -1,0 +1,45 @@
+# General Networking and Packet Analysis
+scapy==2.5.0
+netfilterqueue==1.0.1
+
+# HTTP/HTTPS Traffic and Proxies
+requests==2.31.0
+mitmproxy==9.0.1
+
+# Encryption and Secure Communication
+cryptography==41.0.1
+pyOpenSSL==23.2.0
+
+# AWS and Cloud Tools
+boto3==1.28.4
+
+# DNS Tools
+dnspython==2.4.0
+
+# Data Visualization
+matplotlib==3.8.0
+
+# WebSocket Tools
+websocket-server==0.11.0
+
+# System Utilities
+psutil==5.9.5
+
+# Geolocation and IP Analysis
+ipwhois==1.2.0
+
+# Optional (Useful for Data Handling and Processing)
+pandas==2.1.0
+
+# Command-Line Argument Parsing
+argparse==1.4.0
+
+# Async Tools for Concurrent Operations (if required)
+asyncio==3.4.3
+
+# Vulnerability Scanning and Security Tools
+beautifulsoup4==4.12.2  # For parsing HTML responses during vulnerability scanning
+
+# Additional Utilities
+progress==1.6  # For progress bars in long-running tasks
+tabulate==0.9.0  # For formatted table display of results
